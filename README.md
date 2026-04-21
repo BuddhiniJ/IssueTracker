@@ -178,3 +178,20 @@ Base URL: `/api`
 - Public registration creates `user` role accounts.
 - Admin account should be created manually in DB.
 - Backend rate limiting is enabled on `/api` routes.
+
+## Live Demo
+
+- Frontend (Vercel): [https://issue-tracker-6eij3hn78-bajayasooriya-1119s-projects.vercel.app/](https://issue-tracker-6eij3hn78-bajayasooriya-1119s-projects.vercel.app/)
+- Backend API (Render): [https://issuetrackerbackend-8ywo.onrender.com](https://issuetrackerbackend-8ywo.onrender.com)
+
+### Demo Credentials
+Admin:
+```
+Email: admin@demo.com
+Password: admin123
+```
+User:
+```
+Email: user@demo.com
+Password: user123
+```
