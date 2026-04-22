@@ -181,7 +181,7 @@ Base URL: `/api`
 
 ## Live Demo
 
-- Frontend (Vercel): [https://issue-tracker-6eij3hn78-bajayasooriya-1119s-projects.vercel.app/](https://issue-tracker-6eij3hn78-bajayasooriya-1119s-projects.vercel.app/)
+- Frontend (Vercel): [https://issue-tracker-psi-brown.vercel.app/](https://issue-tracker-psi-brown.vercel.app/)
 - Backend API (Render): [https://issuetrackerbackend-8ywo.onrender.com](https://issuetrackerbackend-8ywo.onrender.com)
 
 ### Demo Credentials
